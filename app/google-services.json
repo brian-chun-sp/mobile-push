@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "439644384056",
+    "project_id": "mobile-push-notifications-1344"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439644384056:android:b8dd419f9c4c16e3",
+        "android_client_info": {
+          "package_name": "org.nativescript.testpush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSA6APq1Ql5nbdAJY9F6Q-jT4YnbUCHyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
